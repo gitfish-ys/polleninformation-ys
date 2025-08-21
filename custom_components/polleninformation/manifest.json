@@ -1,6 +1,6 @@
 {
   "domain": "polleninformation",
-  "name": "Polleninformation EU",
+  "name": "Polleninformation EU - yPrivat",
   "codeowners": ["@krissen"],
   "config_flow": true,
   "dependencies": [],
